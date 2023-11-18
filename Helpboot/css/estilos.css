@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-cor-menu{
+    background-color: rgb(60, 255, 0);
+}
+
+.nav-item{
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.navbar-brand{
+    font-size: 1.4em; 
+}
+
+.nav-item:hover{
+    transform: scale(1.2);
+}
+
+#slider-container{
+    margin-top: 10%;
+}
+
+#container-banner{
+    margin-top: 7em;
+}
+
+.col-12{
+    margin-bottom: 1em;
+}
+
+#icon_boot{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    font-size: 6em;
+}
+
+.carousel-item{
+    height: 650px;
+    width: 1092px;
+}
+
+footer{
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    width: 100%;
+}
